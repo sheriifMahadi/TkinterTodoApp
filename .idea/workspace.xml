@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b5d0ac2-3d89-4d93-a4d8-e34a5558b0e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lYF4aKc0Wvk9Neifapd9P7QZEf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../__pycache__/test.cpython-36.pyc" />
+  </component>
+  <component name="RunManager" selected="Python.todoWindow">
+    <configuration name="loadTasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simpleTodoApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loadTasks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simpleTodoApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="todoWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simpleTodoApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todoWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.todoWindow" />
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.loadTasks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b5d0ac2-3d89-4d93-a4d8-e34a5558b0e5" name="Default Changelist" comment="" />
+      <created>1607765927623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607765927623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="202" width="717" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608917710867">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="358" y="202" width="717" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1608917710867" />
+    <state x="416" y="146" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607936882173">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="146" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1607936882173" />
+    <state x="801" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1608917706450">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="801" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608917706450" />
+    <state width="655" height="124" key="GridCell.Tab.0.bottom" timestamp="1613888356374">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="655" height="124" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1613888356374" />
+    <state width="655" height="124" key="GridCell.Tab.0.center" timestamp="1613888356373">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="655" height="124" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1613888356373" />
+    <state width="655" height="124" key="GridCell.Tab.0.left" timestamp="1613888356373">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="655" height="124" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1613888356373" />
+    <state width="655" height="124" key="GridCell.Tab.0.right" timestamp="1613888356373">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="655" height="124" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1613888356373" />
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1607945016363">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1607945016363" />
+    <state width="1345" height="220" key="GridCell.Tab.1.center" timestamp="1607945016362">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1607945016362" />
+    <state width="1345" height="220" key="GridCell.Tab.1.left" timestamp="1607945016362">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1607945016362" />
+    <state width="1345" height="220" key="GridCell.Tab.1.right" timestamp="1607945016362">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1607945016362" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1607857775596">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1607857775596" />
+    <state x="681" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1613888214268">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="681" y="226" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1613888214268" />
+    <state x="239" y="136" width="878" height="521" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607934462022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="239" y="136" width="878" height="521" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1366.741@0.27.1366.741" timestamp="1607934462022" />
+    <state x="332" y="115" width="700" height="530" key="recent.locations.popup" timestamp="1607856536165">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="332" y="115" width="700" height="530" key="recent.locations.popup/0.27.1366.741@0.27.1366.741" timestamp="1607856536165" />
+  </component>
+</project>
